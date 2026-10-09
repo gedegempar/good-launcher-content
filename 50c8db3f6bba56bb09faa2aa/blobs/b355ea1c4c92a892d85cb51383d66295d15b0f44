@@ -1,0 +1,157 @@
+{
+    "propertyName": "Purana Villa",
+    "welcomeText": "Dear Valued Guest",
+    "welcomeMessage": "Welcome to Purana Villa!\r\n\r\nIt is our pleasure to welcome you to our little sanctuary in Bali. We hope your stay will be filled with comfort, tranquility, and beautiful moments.\r\n\r\nInspired by the warmth of Balinese hospitality, Purana Villa is dedicated to making your experience special and memorable. Whether you wish to relax, explore the beauty of Bali, or simply enjoy a peaceful escape, we hope you will feel right at home.\r\n\r\nPlease do not hesitate to contact our team should you need any assistance during your stay.\r\n\r\nThank you for choosing Purana Villa. We wish you a wonderful stay and unforgettable memories in Bali.",
+    "welcomeSignature": "Purana Villa Management & Team",
+    "logo": "assets/logo.png",
+    "background": "assets/background.png",
+    "homeBackground": "assets/home-background.mp4",
+    "greetingEnabled": true,
+    "greetingLanguage": "auto",
+    "timeFormat": "24",
+    "dateLanguage": "auto",
+    "adminPin": "1111",
+    "launcherVersion": "1.0.11",
+    "accentColor": "#f2d9a4",
+    "fontFamily": "default",
+    "welcomeTextAlign": "center",
+    "menuLayout": "horizontal",
+    "tileSize": "medium",
+    "logoPosition": "top-center",
+    "homeTitleSource": "property",
+    "homeTitleText": "",
+    "uiLanguage": "en",
+    "adminLanguage": "en",
+    "textStyles": {
+        "propertyName": {
+            "size": 40,
+            "bold": true,
+            "italic": false
+        },
+        "welcomeText": {
+            "size": 34,
+            "bold": true,
+            "italic": false
+        },
+        "welcomeMessage": {
+            "size": 26,
+            "bold": false,
+            "italic": true
+        },
+        "welcomeSignature": {
+            "size": 22,
+            "bold": true,
+            "italic": true
+        }
+    },
+    "textStyleUnit": "px",
+    "logoSize": 80,
+    "clockSize": 40,
+    "weatherSize": 40,
+    "welcomeGreetingSize": 49,
+    "homeGreetingSize": 25,
+    "homeTitleSize": 40,
+    "safeMargin": 6,
+    "wifiQrSize": 200,
+    "textPanel": "light",
+    "autoFit": true,
+    "weather": {
+        "lat": -8.5098000000000002529532139305956661701202392578125,
+        "lon": 115.265399999999999636202119290828704833984375,
+        "label": "Ubud"
+    },
+    "info": {
+        "enabled": true,
+        "title": "Info Villa",
+        "template": "slideshow",
+        "interval": 6,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "slides": [
+            {
+                "image": "assets/info/s2c01f663.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s9db431c0.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s83818977.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s7f12a558.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sd4134ca7.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "promo": {
+        "enabled": true,
+        "title": "Promo",
+        "template": "detail",
+        "interval": 6,
+        "text": {
+            "size": 30,
+            "align": "center",
+            "bold": true,
+            "italic": true
+        },
+        "slides": [
+            {
+                "image": "assets/promo/sae917655.jpg",
+                "description": "Book your stay today and unlock up to 30% OFF plus complimentary daily breakfast and airport transfers."
+            },
+            {
+                "image": "assets/promo/s98529313.jpg",
+                "description": "Book your stay today to enjoy an exclusive 25% OFF your villa, complete with a complimentary floating breakfast and private airport pick-up"
+            },
+            {
+                "image": "assets/promo/s1b5bbf62.jpg",
+                "description": "Unlock up to 40% OFF your luxury stay today, featuring complimentary welcome drinks, daily breakfast, and roundtrip VIP airport transfers"
+            },
+            {
+                "image": "assets/promo/sc92ce719.jpg",
+                "description": "Reserve your villa today to get 20% OFF, along with daily breakfast, bonus spa discounts, and free return airport transfers."
+            },
+            {
+                "image": "assets/promo/s157629a8.jpg",
+                "description": "Act fast to claim up to 50% OFF your getaway, including complimentary daily breakfast and a dedicated chauffeur for your airport pick-up."
+            }
+        ]
+    },
+    "wifi": {
+        "ssid": "RND",
+        "password": "12345678",
+        "security": "WPA",
+        "hidden": false
+    },
+    "backgroundMode": "photo",
+    "backgroundSlides": [],
+    "backgroundInterval": 8,
+    "homeBackgroundMode": "video",
+    "homeBackgroundSlides": [],
+    "homeBackgroundInterval": 6,
+    "videoAudio": "mute",
+    "music": {
+        "file": "assets/media/music.mp3",
+        "volume": 100,
+        "scope": "all"
+    },
+    "liveTv": {
+        "enabled": true,
+        "package": ""
+    },
+    "update": {
+        "base": "https://raw.githubusercontent.com/gedegempar/good-launcher-content/main/50c8db3f6bba56bb09faa2aa",
+        "interval": 120
+    }
+}
