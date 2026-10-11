@@ -1,0 +1,1984 @@
+{
+    "propertyName": "Purana Villa",
+    "welcomeText": "Dear Valued Guest",
+    "welcomeMessage": "Welcome to Purana Villa!\r\n\r\nIt is our pleasure to welcome you to our little sanctuary in Bali. We hope your stay will be filled with comfort, tranquility, and beautiful moments.\r\n\r\nInspired by the warmth of Balinese hospitality, Purana Villa is dedicated to making your experience special and memorable. Whether you wish to relax, explore the beauty of Bali, or simply enjoy a peaceful escape, we hope you will feel right at home.\r\n\r\nPlease do not hesitate to contact our team should you need any assistance during your stay.\r\n\r\nThank you for choosing Purana Villa. We wish you a wonderful stay and unforgettable memories in Bali.",
+    "welcomeSignature": "Purana Villa Management & Team",
+    "logo": "assets/logo.png",
+    "background": "assets/background.png",
+    "homeBackground": "assets/home-background.mp4",
+    "greetingEnabled": true,
+    "greetingLanguage": "auto",
+    "timeFormat": "24",
+    "dateLanguage": "auto",
+    "adminPin": "1111",
+    "launcherVersion": "1.0.12",
+    "accentColor": "#f2d9a4",
+    "fontFamily": "default",
+    "welcomeTextAlign": "center",
+    "menuLayout": "folder",
+    "tileSize": "medium",
+    "logoPosition": "top-center",
+    "homeTitleSource": "property",
+    "homeTitleText": "",
+    "uiLanguage": "en",
+    "adminLanguage": "en",
+    "textStyles": {
+        "propertyName": {
+            "size": 40,
+            "bold": true,
+            "italic": false
+        },
+        "welcomeText": {
+            "size": 34,
+            "bold": true,
+            "italic": false
+        },
+        "welcomeMessage": {
+            "size": 26,
+            "bold": false,
+            "italic": true
+        },
+        "welcomeSignature": {
+            "size": 22,
+            "bold": true,
+            "italic": true
+        }
+    },
+    "textStyleUnit": "px",
+    "logoSize": 150,
+    "clockSize": 40,
+    "weatherSize": 40,
+    "welcomeGreetingSize": 49,
+    "homeGreetingSize": 25,
+    "homeTitleSize": 40,
+    "safeMargin": 6,
+    "wifiQrSize": 200,
+    "textPanel": "light",
+    "autoFit": true,
+    "weather": {
+        "lat": -8.5098000000000002529532139305956661701202392578125,
+        "lon": 115.265399999999999636202119290828704833984375,
+        "label": "Ubud"
+    },
+    "info": {
+        "enabled": true,
+        "title": "Info Villa",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "slides": [
+            {
+                "image": "assets/info/saefd56b3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/se916f1f6.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s4fa32cac.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sb471beb1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sf8aaf3f1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s970e14a4.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "promo": {
+        "enabled": true,
+        "title": "Promo",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 30,
+            "align": "center",
+            "bold": true,
+            "italic": true
+        },
+        "slides": [
+            {
+                "image": "assets/promo/s65fd3c7c.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s78d232d3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s935c8f45.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s068282bc.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s7633696d.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "dining": {
+        "enabled": true,
+        "title": "In-Room Dining",
+        "template": "imageqr",
+        "interval": 6,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "qr": {
+            "url": "https://wa.me/081779580810",
+            "label": ""
+        },
+        "slides": [
+            {
+                "image": "assets/dining/s9f037b9c.jpg",
+                "description": "",
+                "url": ""
+            }
+        ]
+    },
+    "iptv": {
+        "enabled": true,
+        "title": "Live TV",
+        "channels": [
+            {
+                "name": "3ABN Kids Network",
+                "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ADN TV",
+                "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Ani-Blast",
+                "url": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Animation",
+                "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Animax Asia India",
+                "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Anime Vision",
+                "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Anime Vision Classics (1080p)",
+                "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ANIME x HIDIVE (720p)",
+                "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Anime Zone TV (480p)",
+                "url": "http://animezonetv.net/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Aniplus Asia (720p)",
+                "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Banijay Mr Bean Anim\u00e9 (1080p)",
+                "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "BBC Four/CBeebies (1080p) [Geo-Blocked]",
+                "url": "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "BBC Three/CBBC (1080p) [Geo-Blocked]",
+                "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Blues TV",
+                "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" gr",
+                "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8?ads.vf=yqk-v2F2pNi",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Disney Jr. (1080p) [Geo-blocked]",
+                "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Disney Jr. Latin America South",
+                "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "DreikoTv (720p) [Not 24/7]",
+                "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "EnerGeek (720p) [Not 24/7]",
+                "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "EnerGeek Fan (1080p)",
+                "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Extrema Kids TV [Not 24/7]",
+                "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "FAN (1080p)",
+                "url": "http://31.148.48.15/Fan/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "FilmRise Anime (720p)",
+                "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Geekdot (720p)",
+                "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "GikTVMX (720p)",
+                "url": "https://pistream.ddns.net/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Gong (1080p)",
+                "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Gooder Nation Channel 32 (720p) [Not 24/7]",
+                "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/channel32/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Japanim TV (1080p)",
+                "url": "https://foxkidstv.be:3369/stream/play.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Jiangxi Children's Channel",
+                "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Kanade (1080p)",
+                "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Kuriakos Kids (1080p)",
+                "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Magic Kids (486p)",
+                "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "MCN6 Music Channel (1080p) [Not 24/7]",
+                "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Movies for Gamers",
+                "url": "https://jmp2.uk/plu-6008ddf24ef92b00079d61cf.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Mr. Bean Animated (1080p)",
+                "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Mr. Bean Anime Italy (1080p)",
+                "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Mr. Bean Anime Spain (1080p)",
+                "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Multimania (Latvia) (576p)",
+                "url": "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Naruto",
+                "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Naruto (720p)",
+                "url": "https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Naruto (1080p)",
+                "url": "https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Naruto",
+                "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Naruto Shippuden",
+                "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Nickelodeon (576p)",
+                "url": "http://195.64.140.147:10121/121",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NickOnline (720p)",
+                "url": "https://x1co.com.br/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NickOnline SD (320p) [Not 24/7]",
+                "url": "https://sdnew.x1co.com.br/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NickOnline Spongebob (1080p) [Not 24/7]",
+                "url": "https://spongebobnew.x1co.com.br/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NickToons Brasil (480p)",
+                "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NickWeb (720p)",
+                "url": "https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "One Piece",
+                "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "One Piece",
+                "url": "https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "One Piece",
+                "url": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "One Piece",
+                "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "One Piece",
+                "url": "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "One Piece",
+                "url": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pingviin (576p)",
+                "url": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Anime",
+                "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Anime",
+                "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Anime",
+                "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Anime A\u00e7\u00e3o",
+                "url": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Anime Movies",
+                "url": "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pok\u00e9mon",
+                "url": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pok\u00e9mon",
+                "url": "https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pro100TV (576p)",
+                "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "RetroCrush (1080p)",
+                "url": "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Sony Yay! (1080p) [Geo-blocked]",
+                "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "South Park",
+                "url": "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Spacetoon Arabic (1080p)",
+                "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "SX3 (1080p) [Geo-blocked]",
+                "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Tiguerito TV (720p) [Not 24/7]",
+                "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Tokusato",
+                "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Toonami Aftermath East (480p)",
+                "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Xtrema Cartoons",
+                "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Yu-Gi-Oh! (1080p)",
+                "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "??????????? (576p)",
+                "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "??????? (720p)",
+                "url": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "?????? (576p)",
+                "url": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "???? (576p)",
+                "url": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "???? (576p)",
+                "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "30A We Love Cars (720p)",
+                "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "100% Auto Moto TV (406p) [Not 24/7]",
+                "url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Auto Plus (576p)",
+                "url": "http://tmptv.sunduk.tv/CH49/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Canal Motor (720p)",
+                "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Choppertown (720p)",
+                "url": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Drive (576i)",
+                "url": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Full Custom Garage",
+                "url": "https://jmp2.uk/plu-5e78faa05a0e200007a6f487.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Fun Roads TV (720p)",
+                "url": "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Garage TV Latin America",
+                "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "INTROUBLE (1080p)",
+                "url": "https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Motorvision (1080p)",
+                "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Motorvision.tv (French)",
+                "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Cars",
+                "url": "https://jmp2.uk/plu-5c12ba66eae03059cbdc77f2.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "PowerNation (1080p)",
+                "url": "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Top Gear (720p)",
+                "url": "https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "???? ???? ??????? [Not 24/7]",
+                "url": "https://cityeden.catcast.tv/content/47515/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "30A Investment Pitch (720p)",
+                "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "100% News (576p)",
+                "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Al Arabiya Business (1080p)",
+                "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Aleph Business (1280p)",
+                "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Ameritrade (1080p) [Not 24/7]",
+                "url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "apart TV (1080p)",
+                "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Asharq News (1080p)",
+                "url": "https://live-news.asharq.com/asharq.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Asharq Radio (1080p)",
+                "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ausbiz TV (720p) [Not 24/7]",
+                "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"Bus",
+                "url": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bilyonaryo News Channel (1080p)",
+                "url": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg HT (720p)",
+                "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg Originals",
+                "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg Originals (1080p)",
+                "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg Originals (1080p)",
+                "url": "https://bloomberg.com/media-manifest/streams/qt.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" gr",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=XfUcpFmGLda",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV Asia (720p)",
+                "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV Asia Live Event (720p)",
+                "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV Australia (270p)",
+                "url": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV EMEA Live Event (720p)",
+                "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV Europe (720p)",
+                "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Bus",
+                "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV US Live Event (720p)",
+                "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV US Politics Live Event (720p)",
+                "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV+ (2160p)",
+                "url": "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bloomberg TV+",
+                "url": "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "BNN Bloomberg",
+                "url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "BT TV (720p)",
+                "url": "https://feeds.intoday.in/bttv/itgd.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Business 24 Africa (480p)",
+                "url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Cafe Trade TV",
+                "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Canal E (720p)",
+                "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Canal Pro",
+                "url": "https://www.desde-paraguay.com/pro.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CCTV-2 (720p)",
+                "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CGTN Global Biz (1080p)",
+                "url": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Class CNBC (1080p) [Geo-blocked]",
+                "url": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC (720p)",
+                "url": "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC (1080p)",
+                "url": "https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC Arabiya (1080p)",
+                "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC Asia (720p)",
+                "url": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC Awaaz (1080p)",
+                "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC Bajar (1080p)",
+                "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC Europe HD (1080p) [Geo-Blocked]",
+                "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC Indonesia (720p)",
+                "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Bus",
+                "url": "https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC TV18 (1080p)",
+                "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC TV18 Prime HD (1080p)",
+                "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CNBC-e",
+                "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" gr",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/defiance-media/playlist.m3u8?ads.vf=vUI6YpdKlAm",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Ekhon TV (1080p)",
+                "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Entrepreneur TV [Geo-blocked]",
+                "url": "https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ET Now (720p)",
+                "url": "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ET Now Swadesh (720p)",
+                "url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "First Business (720p)",
+                "url": "https://lowa8026-cmyk.github.io/Ukraine/FirstBussines.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Fox Business Network (720p) [Not 24/7]",
+                "url": "https://tvpass.org/live/FoxBusiness/hd",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "HOY International Business Channel (1080p) [Geo-blocked]",
+                "url": "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "IDX Channel (720p)",
+                "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Jiangxi Economy & Life Channel",
+                "url": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Job Plus TV (??????) (480p)",
+                "url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "JOB TV (1080p)",
+                "url": "https://jobtvserver.eu/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NDTV Profit (1080p)",
+                "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NDTV Profit (1080p)",
+                "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Negocios TV (1080p)",
+                "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NW Economie (576p)",
+                "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Schwab Network (1080p)",
+                "url": "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Telewizja Biznesowa (1080p)",
+                "url": "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Tevex (720p) [Not 24/7]",
+                "url": "https://v4.tustreaming.cl/tevexinter/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Trends Z (1080p)",
+                "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Trends Z (1080p)",
+                "url": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "World Economy Channel",
+                "url": "http://49.113.179.174:4022/udp/238.125.2.205:5140",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Yahoo! Finance (1080p)",
+                "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Zee Business (720p)",
+                "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "??? (576p)",
+                "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "?????? (1080p)",
+                "url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "?????? (180p) [Not 24/7]",
+                "url": "http://stream2.xiancity.cn/xatv3/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "3Cat Plats bruts (1080p)",
+                "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Artflix Movie Classics (720p)",
+                "url": "https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "AWTV (1080p) [Geo-blocked]",
+                "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Beverly Hillbillies",
+                "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Bollywood Classic (1080p)",
+                "url": "http://103.213.31.109:90/BollywoodClassic/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "BRIDGE Classic (576p)",
+                "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Cinevault Westerns (720p)",
+                "url": "https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Classic TV",
+                "url": "https://clshls.wns.live/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Classic TV Drama",
+                "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Classic TV: Families",
+                "url": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "C\u00facuta Retro TV [Not 24/7]",
+                "url": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "FilmRise Classic TV (720p)",
+                "url": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "GEM Classic",
+                "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Movify Kino (576p)",
+                "url": "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "PBS Retro (1080p) [Geo-blocked]",
+                "url": "https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Persiana Nostalgia",
+                "url": "https://noshls.persiana.live/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Retro",
+                "url": "http://tmptv.sunduk.tv/CH149/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Retrox TV (720p) [Not 24/7]",
+                "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Rotana Classic (1080p) [Geo-blocked]",
+                "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Samuel Goldwyn Classics (1080p)",
+                "url": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Andy Griffith Show",
+                "url": "https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Archive (1080p)",
+                "url": "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Carol Burnett Show (1080p)",
+                "url": "https://carolburnett-vizio.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Love Boat",
+                "url": "https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Twilight Zone",
+                "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVN3 (1080p) [Geo-blocked]",
+                "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Cipher Network (360p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Classic Movies (288p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Hollywood History (582p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Mainstreet (360p) [Not 24/7]",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Nostalgia (472p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Nostalgia Movies (480p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Pet Parade Network (360p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Quiz Show Network (720p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Retro (720p)",
+                "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Talk Network (360p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Tally Ho (360p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Tavern (480p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Western Movie (270p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Wanted: Dead or Alive (720p)",
+                "url": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "WJLP-DT2 (360p)",
+                "url": "https://e3.thetvapp.to/hls/metv-toons/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Xtrema Cine Clasico",
+                "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ZB Cinema (720p)",
+                "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Zee Cine Classic (1080p)",
+                "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Zee Classic (576p)",
+                "url": "http://103.229.254.25:7001/play/a09w/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ZillarBarta News",
+                "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "?????????? (576p)",
+                "url": "http://31.148.48.15/Nostalgiya/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "??????? 100% ????????",
+                "url": "https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "3Cat El b\u00fanquer (1080p)",
+                "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "13 Humor (1080p)",
+                "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "30A Ridiculous TV (720p)",
+                "url": "https://30a-tv.com/feeds/720p/63.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "AFV en Espa\u00f1ol (720p) [Not 24/7]",
+                "url": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "alpha Cinema (1080p)",
+                "url": "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "alpha Funny (1080p)",
+                "url": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "alpha Moretime (1080p)",
+                "url": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "America\u2019s Funniest Home Videos (1080p)",
+                "url": "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Anger Management Channel (1080p)",
+                "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Camera Smile (480p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "CC Pluto TV",
+                "url": "https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Classic TV Comedy",
+                "url": "https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Central (1080p)",
+                "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Central en espa\u00f1ol",
+                "url": "https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Central HD (1080p) [Geo-Blocked]",
+                "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Central Pluto TV",
+                "url": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Central Pluto TV",
+                "url": "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Dynamics (1080p)",
+                "url": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy Play (720p)",
+                "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Comedy TV",
+                "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Dry Bar Comedy (720p)",
+                "url": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ETV Comedy (1080p)",
+                "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Fail Army (720p)",
+                "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "FailArmy",
+                "url": "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Failarmy",
+                "url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "FailArmy (720p)",
+                "url": "https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Failarmy International (720p)",
+                "url": "https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Fora Tedio TV (720p)",
+                "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Funny AF",
+                "url": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "GEM Comedy",
+                "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" gr",
+                "url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Jordan Comedy (1080p)",
+                "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Just for Laughs Gags (1080p)",
+                "url": "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Kinokomedija (576p)",
+                "url": "http://tmptv.sunduk.tv/CH47/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Laughter Theater",
+                "url": "http://49.113.179.174:4022/udp/238.125.2.159:5140",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "LOL Network (1080p)",
+                "url": "https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "More TV Sitcoms",
+                "url": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Mr Bean Live Action (1080p)",
+                "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Mr Bean Live Action (1080p)",
+                "url": "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Mystery Science Theater 3000 (1080p)",
+                "url": "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "NBC Comedy Vault (1080p)",
+                "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]",
+                "url": "https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" gr",
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Persiana Comedy",
+                "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Classic TV",
+                "url": "https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Comedy",
+                "url": "https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Pluto TV Sitcoms",
+                "url": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "RiffTrax (720p)",
+                "url": "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Rotana Comedy (1080p) [Geo-blocked]",
+                "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Roya Comedy (1080p)",
+                "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Sirippoli TV (576p)",
+                "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "SNL Vault (1080p)",
+                "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Takeshi's Castle",
+                "url": "https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Chat Show Channel (1080p)",
+                "url": "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "The Conners (1080p) [Geo-blocked]",
+                "url": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Top Million Dollar Agent",
+                "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TV Land Sitcoms",
+                "url": "https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVMatic Comedy (720p)",
+                "url": "http://cdn.tvmatic.net/comedy.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "TVS Comedy Network (720p)",
+                "url": "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Universal Comedy (480p)",
+                "url": "http://190.2.212.209:8050/play/a0q4",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "USA Network East (1080p) [Not 24/7]",
+                "url": "https://tvpass.org/live/USANetworkEast/hd",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "viju+ Comedy (1080p)",
+                "url": "http://tmptv.sunduk.tv/CH311/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Zee Comedy Nation (1080p)",
+                "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "??? ?? (576p)",
+                "url": "http://31.148.48.15/KVN_TV/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "???? ?? ???? (1080p)",
+                "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "24Kitchen Serbia (720p)",
+                "url": "http://91.132.74.5:8000/play/a00a",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "America's Test Kitchen (1080p) [Geo-blocked]",
+                "url": "https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "BBC Food (1080p)",
+                "url": "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "bon app\u00e9tit (1080p)",
+                "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Chef Champion (720p) [Not 24/7]",
+                "url": "https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Chef Roc Show (720p) [Not 24/7]",
+                "url": "https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Cooking Panda (576p)",
+                "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Cook",
+                "url": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "ETV Abhiruchi (1080p)",
+                "url": "https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Food Food (576p)",
+                "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "FoodTime (1080p)",
+                "url": "http://31.148.48.15/Eda_Premium_HD/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "GEM Food",
+                "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Gordon Ramsay (720p)",
+                "url": "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Gusto TV (1080p)",
+                "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Gusto TV (1080p)",
+                "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Hello Taste (720p)",
+                "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            },
+            {
+                "name": "Hungry (720p)",
+                "url": "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8",
+                "group": "",
+                "logo": ""
+            }
+        ]
+    },
+    "wifi": {
+        "ssid": "RND",
+        "password": "12345678",
+        "security": "WPA",
+        "hidden": false
+    },
+    "backgroundMode": "photo",
+    "backgroundSlides": [],
+    "backgroundInterval": 8,
+    "homeBackgroundMode": "video",
+    "homeBackgroundSlides": [],
+    "homeBackgroundInterval": 6,
+    "videoAudio": "mute",
+    "music": {
+        "file": "assets/media/music.mp3",
+        "volume": 100,
+        "scope": "all"
+    },
+    "liveTv": {
+        "enabled": false,
+        "package": ""
+    },
+    "update": {
+        "base": "https://raw.githubusercontent.com/gedegempar/good-launcher-content/main/50c8db3f6bba56bb09faa2aa",
+        "interval": 120
+    }
+}
