@@ -1,0 +1,329 @@
+{
+    "propertyName": "Purana Villa",
+    "welcomeText": "Dear Valued Guest",
+    "welcomeMessage": "Welcome to Purana Villa!\r\n\r\nIt is our pleasure to welcome you to our little sanctuary in Bali. We hope your stay will be filled with comfort, tranquility, and beautiful moments.\r\n\r\nInspired by the warmth of Balinese hospitality, Purana Villa is dedicated to making your experience special and memorable. Whether you wish to relax, explore the beauty of Bali, or simply enjoy a peaceful escape, we hope you will feel right at home.\r\n\r\nPlease do not hesitate to contact our team should you need any assistance during your stay.\r\n\r\nThank you for choosing Purana Villa. We wish you a wonderful stay and unforgettable memories in Bali.",
+    "welcomeSignature": "Purana Villa Management & Team",
+    "logo": "assets/logo.png",
+    "background": "assets/background.png",
+    "homeBackground": "assets/home-background.mp4",
+    "greetingEnabled": true,
+    "greetingLanguage": "auto",
+    "timeFormat": "24",
+    "dateLanguage": "auto",
+    "adminPin": "1111",
+    "launcherVersion": "1.0.17",
+    "accentColor": "#f2d9a4",
+    "fontFamily": "default",
+    "welcomeTextAlign": "center",
+    "menuLayout": "folder",
+    "tileSize": "medium",
+    "logoPosition": "top-center",
+    "homeTitleSource": "property",
+    "homeTitleText": "",
+    "uiLanguage": "en",
+    "adminLanguage": "en",
+    "textStyles": {
+        "propertyName": {
+            "size": 40,
+            "bold": true,
+            "italic": false,
+            "color": "#ffffff"
+        },
+        "welcomeText": {
+            "size": 34,
+            "bold": true,
+            "italic": false,
+            "color": "#ffffff"
+        },
+        "welcomeMessage": {
+            "size": 26,
+            "bold": false,
+            "italic": true,
+            "color": "#ffffff"
+        },
+        "welcomeSignature": {
+            "size": 22,
+            "bold": true,
+            "italic": true,
+            "color": "#ffffff"
+        }
+    },
+    "textStyleUnit": "px",
+    "logoSize": 150,
+    "clockSize": 40,
+    "weatherSize": 40,
+    "welcomeGreetingSize": 49,
+    "homeGreetingSize": 25,
+    "homeTitleSize": 40,
+    "safeMargin": 6,
+    "wifiQrSize": 200,
+    "textPanel": "light",
+    "autoFit": true,
+    "weather": {
+        "lat": -8.5098000000000002529532139305956661701202392578125,
+        "lon": 115.265399999999999636202119290828704833984375,
+        "label": "Ubud"
+    },
+    "info": {
+        "enabled": true,
+        "title": "Info Villa",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "slides": [
+            {
+                "image": "assets/info/saefd56b3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/se916f1f6.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s4fa32cac.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sb471beb1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sf8aaf3f1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s970e14a4.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "promo": {
+        "enabled": true,
+        "title": "Promo",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 30,
+            "align": "center",
+            "bold": true,
+            "italic": true
+        },
+        "slides": [
+            {
+                "image": "assets/promo/s65fd3c7c.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s78d232d3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s935c8f45.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s068282bc.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s7633696d.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "dining": {
+        "enabled": true,
+        "title": "In-Room Dining",
+        "template": "imageqr",
+        "interval": 6,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "qr": {
+            "url": "https://wa.me/081779580810",
+            "label": ""
+        },
+        "slides": [
+            {
+                "image": "assets/dining/sdb5e0fee.jpg",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "assets/dining/sc9518aca.jpg",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "assets/dining/s4da087ec.jpg",
+                "description": "",
+                "url": ""
+            }
+        ]
+    },
+    "iptv": {
+        "enabled": true,
+        "title": "Live TV",
+        "channels": [
+            {
+                "name": "Daai TV",
+                "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://github.com/riotryulianto/iptv-playlists/blob/main/icons/daaitv.png?raw=true"
+            },
+            {
+                "name": "Madu TV",
+                "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/cKpgbgW.png"
+            },
+            {
+                "name": "Magna TV",
+                "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/01YAHgw.png"
+            },
+            {
+                "name": "Nusantara TV",
+                "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://github.com/riotryulianto/iptv-playlists/blob/main/icons/nusantaratv.png?raw=true"
+            },
+            {
+                "name": "RCTI",
+                "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/ElWqXMk.png"
+            },
+            {
+                "name": "RCTV",
+                "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png"
+            },
+            {
+                "name": "RTV",
+                "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/SE9z5qz.png"
+            },
+            {
+                "name": "TVRI Nasional",
+                "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/irQoFrd.png"
+            },
+            {
+                "name": "TVRI Sport",
+                "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/irQoFrd.png"
+            },
+            {
+                "name": "TVRI World",
+                "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://i.imgur.com/irQoFrd.png"
+            },
+            {
+                "name": "VTV",
+                "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+                "group": "TV Indonesia",
+                "logo": "https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true"
+            },
+            {
+                "name": "BN Channel",
+                "url": "http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8",
+                "group": "Berita",
+                "logo": "https://i.imgur.com/sh1IpGS.png"
+            },
+            {
+                "name": "iNews",
+                "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
+                "group": "Berita",
+                "logo": "https://github.com/riotryulianto/iptv-playlists/blob/main/icons/inews.png?raw=true"
+            },
+            {
+                "name": "MDTV",
+                "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8",
+                "group": "Berita",
+                "logo": "https://i.imgur.com/apTPT8k.png"
+            },
+            {
+                "name": "Sindo News",
+                "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8",
+                "group": "Berita",
+                "logo": "https://i.imgur.com/WObxqqU.jpeg"
+            },
+            {
+                "name": "Hits Movies",
+                "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8",
+                "group": "Film & Serial",
+                "logo": "https://i.imgur.com/jfSOSEP.png"
+            },
+            {
+                "name": "Uniques",
+                "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8",
+                "group": "Film & Serial",
+                "logo": "https://i.imgur.com/WDFYwjp.png"
+            },
+            {
+                "name": "Aswaja TV",
+                "url": "https://warningfm.github.io/dailymotion/AswajaTV.m3u8",
+                "group": "Religi",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvxXLQIwFQzMWhj3J8PcDdxmCHSk0-hqclw&usqp=CAU"
+            },
+            {
+                "name": "MQTV",
+                "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+                "group": "Religi",
+                "logo": "https://i.imgur.com/AavkMyB.png"
+            },
+            {
+                "name": "TV9 NU",
+                "url": "http://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+                "group": "Religi",
+                "logo": "https://i.imgur.com/sfhuUuS.png"
+            }
+        ],
+        "listScale": 125,
+        "listBgMode": "default",
+        "listBgColor": "#400040",
+        "listBgOpacity": 40,
+        "listBgImage": ""
+    },
+    "wifi": {
+        "ssid": "RND",
+        "password": "12345678",
+        "security": "WPA",
+        "hidden": false
+    },
+    "backgroundMode": "photo",
+    "backgroundSlides": [],
+    "backgroundInterval": 8,
+    "homeBackgroundMode": "video",
+    "homeBackgroundSlides": [],
+    "homeBackgroundInterval": 6,
+    "videoAudio": "mute",
+    "music": {
+        "file": "assets/media/music.mp3",
+        "volume": 100,
+        "scope": "all"
+    },
+    "liveTv": {
+        "enabled": false,
+        "package": ""
+    },
+    "update": {
+        "base": "https://raw.githubusercontent.com/gedegempar/good-launcher-content/main/50c8db3f6bba56bb09faa2aa",
+        "interval": 120
+    }
+}
