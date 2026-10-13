@@ -1,0 +1,1493 @@
+{
+    "propertyName": "Purana Villa",
+    "welcomeText": "Dear Valued Guest",
+    "welcomeMessage": "Welcome to Purana Villa!\r\n\r\nIt is our pleasure to welcome you to our little sanctuary in Bali. We hope your stay will be filled with comfort, tranquility, and beautiful moments.\r\n\r\nInspired by the warmth of Balinese hospitality, Purana Villa is dedicated to making your experience special and memorable. Whether you wish to relax, explore the beauty of Bali, or simply enjoy a peaceful escape, we hope you will feel right at home.\r\n\r\nPlease do not hesitate to contact our team should you need any assistance during your stay.\r\n\r\nThank you for choosing Purana Villa. We wish you a wonderful stay and unforgettable memories in Bali.",
+    "welcomeSignature": "Purana Villa Management & Team",
+    "logo": "assets/logo.png",
+    "background": "assets/background.png",
+    "homeBackground": "assets/home-background.mp4",
+    "greetingEnabled": true,
+    "greetingLanguage": "auto",
+    "timeFormat": "24",
+    "dateLanguage": "auto",
+    "adminPin": "1111",
+    "launcherVersion": "1.0.17",
+    "accentColor": "#f2d9a4",
+    "fontFamily": "default",
+    "welcomeTextAlign": "center",
+    "menuLayout": "folder",
+    "tileSize": "medium",
+    "logoPosition": "top-center",
+    "homeTitleSource": "property",
+    "homeTitleText": "",
+    "uiLanguage": "en",
+    "adminLanguage": "en",
+    "textStyles": {
+        "propertyName": {
+            "size": 40,
+            "bold": true,
+            "italic": false,
+            "color": "#ffffff"
+        },
+        "welcomeText": {
+            "size": 34,
+            "bold": true,
+            "italic": false,
+            "color": "#ffffff"
+        },
+        "welcomeMessage": {
+            "size": 26,
+            "bold": false,
+            "italic": true,
+            "color": "#ffffff"
+        },
+        "welcomeSignature": {
+            "size": 22,
+            "bold": true,
+            "italic": true,
+            "color": "#ffffff"
+        }
+    },
+    "textStyleUnit": "px",
+    "logoSize": 150,
+    "clockSize": 40,
+    "weatherSize": 40,
+    "welcomeGreetingSize": 49,
+    "homeGreetingSize": 25,
+    "homeTitleSize": 40,
+    "safeMargin": 6,
+    "wifiQrSize": 200,
+    "textPanel": "light",
+    "autoFit": true,
+    "weather": {
+        "lat": -8.5098000000000002529532139305956661701202392578125,
+        "lon": 115.265399999999999636202119290828704833984375,
+        "label": "Ubud"
+    },
+    "info": {
+        "enabled": true,
+        "title": "Info Villa",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "slides": [
+            {
+                "image": "assets/info/saefd56b3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/se916f1f6.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s4fa32cac.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sb471beb1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sf8aaf3f1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s970e14a4.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "promo": {
+        "enabled": true,
+        "title": "Promo",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 30,
+            "align": "center",
+            "bold": true,
+            "italic": true
+        },
+        "slides": [
+            {
+                "image": "assets/promo/s65fd3c7c.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s78d232d3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s935c8f45.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s068282bc.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s7633696d.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "dining": {
+        "enabled": true,
+        "title": "In-Room Dining",
+        "template": "imageqr",
+        "interval": 6,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "qr": {
+            "url": "https://wa.me/081779580810",
+            "label": ""
+        },
+        "slides": [
+            {
+                "image": "assets/dining/sdb5e0fee.jpg",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "assets/dining/sc9518aca.jpg",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "assets/dining/s4da087ec.jpg",
+                "description": "",
+                "url": ""
+            }
+        ]
+    },
+    "iptv": {
+        "enabled": true,
+        "title": "Live TV",
+        "channels": [
+            {
+                "name": "BN Channel",
+                "url": "http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png"
+            },
+            {
+                "name": "Bungo TV",
+                "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://i.imgur.com/OrCrtDA.png"
+            },
+            {
+                "name": "Daai TV",
+                "url": "http://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/daai-tv-id.png"
+            },
+            {
+                "name": "FIFA+ World Cup",
+                "url": "https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+            },
+            {
+                "name": "Garuda TV",
+                "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://i.imgur.com/sXsAcZ3.png"
+            },
+            {
+                "name": "Nusantara TV",
+                "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://i.imgur.com/viun5hj.png"
+            },
+            {
+                "name": "Radar TV Tasikmalaya",
+                "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png"
+            },
+            {
+                "name": "RCTV",
+                "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://i.imgur.com/CyIlt0y.png"
+            },
+            {
+                "name": "Sampit TV",
+                "url": "https://e.siar.us/live/sampit-tv.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://i.imgur.com/8cFJa8G.png"
+            },
+            {
+                "name": "TVRI",
+                "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png"
+            },
+            {
+                "name": "TVRI Bali",
+                "url": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png"
+            },
+            {
+                "name": "TVRI Sport",
+                "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png"
+            },
+            {
+                "name": "Al Jazeera Arabic",
+                "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
+                "group": "News",
+                "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"
+            },
+            {
+                "name": "Al Jazeera Arabic Mubasher",
+                "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/X80DQvF.png"
+            },
+            {
+                "name": "Al Jazeera Arabic Mubasher 24",
+                "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/LMCcIZ2.png"
+            },
+            {
+                "name": "Al Jazeera Arabic Mubasher Broadcast 2",
+                "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/nJmi6G6.png"
+            },
+            {
+                "name": "France 24",
+                "url": "https://s5.mexside.net:1936/france24/france24/playlist.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png"
+            },
+            {
+                "name": "NHK World Japan",
+                "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+                "group": "News",
+                "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png"
+            },
+            {
+                "name": "RT News",
+                "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1",
+                "group": "News",
+                "logo": "https://i.imgur.com/HXbsPfB.png"
+            },
+            {
+                "name": "Sky News Arabia",
+                "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/SvjU4h6.png"
+            },
+            {
+                "name": "Top News",
+                "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/tBAXkOW.png"
+            },
+            {
+                "name": "Barca TV",
+                "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/barca-tv-es.png"
+            },
+            {
+                "name": "Bein Sports Xtra",
+                "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png"
+            },
+            {
+                "name": "Billiard TV",
+                "url": "https://jmp2.uk/rok-0b4814b9a5e53029e2b9aba64ddc1df0.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/BZijfKh.png"
+            },
+            {
+                "name": "CBS Sports",
+                "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1%20",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png"
+            },
+            {
+                "name": "CHGO Sports",
+                "url": "https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8",
+                "group": "Sports",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png"
+            },
+            {
+                "name": "DAZN Ringside",
+                "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-rise-de.png"
+            },
+            {
+                "name": "Fox Sports",
+                "url": "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png"
+            },
+            {
+                "name": "Fubo Sports Network",
+                "url": "https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fubo-sports-network-us.png"
+            },
+            {
+                "name": "JTBC Golf KR",
+                "url": "http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/wa4KC7z.png"
+            },
+            {
+                "name": "NBC Sports US",
+                "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-sports-hz-us.png"
+            },
+            {
+                "name": "Oman Sport",
+                "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/1omi7p8.png"
+            },
+            {
+                "name": "Persiana Fight",
+                "url": "https://fighthls.persiana.live/hls/stream.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/AB0BaaA.png"
+            },
+            {
+                "name": "PHLY Sports",
+                "url": "https://jmp2.uk/rok-9ec48964d9b9502396f19fcb3a527074.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-be.png"
+            },
+            {
+                "name": "Real Madrid TV",
+                "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-tv-es.png"
+            },
+            {
+                "name": "Red Bull TV",
+                "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/red-bull-tv-de.png"
+            },
+            {
+                "name": "Red Bull TV UK",
+                "url": "https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/red-bull-tv-int.png"
+            },
+            {
+                "name": "Ryz Sports Network",
+                "url": "https://jmp2.uk/rok-5f9c59c52f0ad475d90a33fdfd14d651.m3u8",
+                "group": "Sports",
+                "logo": "https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/landscape_carousel_xxhdpi.webp"
+            },
+            {
+                "name": "Sky Sport Bundesliga 1 Jerman",
+                "url": "http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/2480/index.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-bundesliga-1-hd-de.png"
+            },
+            {
+                "name": "Sky Sport Premier League Jerman",
+                "url": "http://72164d91.edmonst.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/5042/index.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/hd/sky-sport-premier-league-hd-de.png"
+            },
+            {
+                "name": "Spirit TV",
+                "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/KpYrNx9.jpg"
+            },
+            {
+                "name": "Sportsgrid",
+                "url": "https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/ulGKX30.png"
+            },
+            {
+                "name": "Swerve Women\u2019s Sports",
+                "url": "https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/rhIwUcQ.png"
+            },
+            {
+                "name": "TNA Wrestling Channel",
+                "url": "https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8",
+                "group": "Sports",
+                "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg"
+            },
+            {
+                "name": "UFC",
+                "url": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ufc-us.png"
+            },
+            {
+                "name": "Women's Sports Network",
+                "url": "https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/rhIwUcQ.png"
+            },
+            {
+                "name": "ABC Kids",
+                "url": "https://c.mjh.nz/abc-kids.m3u8",
+                "group": "Kids",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png"
+            },
+            {
+                "name": "Baby Shark TV",
+                "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+                "group": "Kids",
+                "logo": "https://i.imgur.com/SbBKr8L.png"
+            },
+            {
+                "name": "JR",
+                "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
+                "group": "Kids",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png"
+            },
+            {
+                "name": "Kids TV STR",
+                "url": "https://wurljansonmedia.global.transmit.live/hls/69029561e0b3f0f215eef867/playlist.m3u8",
+                "group": "Kids",
+                "logo": "https://i.imgur.com/B5YiUIP.png"
+            },
+            {
+                "name": "Persiana Family",
+                "url": "https://familyhls.persiana.live/hls/stream.m3u8",
+                "group": "Kids",
+                "logo": "https://i.imgur.com/lMZsuWi.png"
+            },
+            {
+                "name": "Persiana Junior",
+                "url": "https://junhls.persiana.live/hls/stream.m3u8",
+                "group": "Kids",
+                "logo": "https://i.imgur.com/zeKHZYG.png"
+            },
+            {
+                "name": "Biz Cinema",
+                "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png"
+            },
+            {
+                "name": "LG 1 Film",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465",
+                "group": "Movies & Series",
+                "logo": "https://i.imgur.com/z9XvYLe.png"
+            },
+            {
+                "name": "MX Nuestro Cine",
+                "url": "https://5fc584f3f19c9.streamlock.net:443/canal222/videocanal222/playlist.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png"
+            },
+            {
+                "name": "Persiana Cinema",
+                "url": "https://cinehls.persiana.live/hls/stream.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://i.imgur.com/hgIro9r.png"
+            },
+            {
+                "name": "Persiana Comedy",
+                "url": "https://comedyhls.persiana.live/hls/stream.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://i.imgur.com/DBZ3Pi5.png"
+            },
+            {
+                "name": "Persiana Series",
+                "url": "https://onehls.persiana.live/hls/stream.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://i.imgur.com/si2ZnIA.png"
+            },
+            {
+                "name": "24-hour K-pop TV",
+                "url": "https://live.24hrkpop.com/hls/3/stream.m3u8",
+                "group": "Music",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png"
+            },
+            {
+                "name": "Music Reload",
+                "url": "http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8",
+                "group": "Music",
+                "logo": "https://i.postimg.cc/rmWpqh3p/300px-Music-TV-2020.png"
+            },
+            {
+                "name": "Now Rock",
+                "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+                "group": "Music",
+                "logo": "https://i.imgur.com/GuM4GnX.png"
+            },
+            {
+                "name": "Persiana Music",
+                "url": "https://musichls.persiana.live/hls/stream.m3u8",
+                "group": "Music",
+                "logo": "https://i.imgur.com/SHxxi5I.png"
+            },
+            {
+                "name": "Pop Coorn Central",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16478",
+                "group": "Music",
+                "logo": "https://i.imgur.com/ULGVjyC.png"
+            },
+            {
+                "name": "Stingray Today's K-POP",
+                "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+                "group": "Music",
+                "logo": "https://i.imgur.com/mMbntB5.png"
+            },
+            {
+                "name": "Trace Urban",
+                "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+                "group": "Music",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png"
+            },
+            {
+                "name": "YRF Music",
+                "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+                "group": "Music",
+                "logo": "https://i.imgur.com/mxx05Z9.png"
+            },
+            {
+                "name": "CGTN Documentary",
+                "url": "http://english-livebkali.cgtn.com/live/doccgtn.m3u8",
+                "group": "Documentary & Education",
+                "logo": "https://i.imgur.com/JHv0WxM.png"
+            },
+            {
+                "name": "English Study",
+                "url": "https://flv.intechmedia.net/live/ch83.m3u8",
+                "group": "Documentary & Education",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/english-club-tv-rs.png"
+            },
+            {
+                "name": "Mexico Travel Channel",
+                "url": "https://5ca9af4645e15.streamlock.net:443/mexicotravel/videomexicotravel/playlist.m3u8?",
+                "group": "Documentary & Education",
+                "logo": "https://i.imgur.com/HaCLt6e.png"
+            },
+            {
+                "name": "Arirang",
+                "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8",
+                "group": "Entertainment",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/arirang-int.png"
+            },
+            {
+                "name": "Dens food",
+                "url": "https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8",
+                "group": "Entertainment",
+                "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg"
+            },
+            {
+                "name": "Ahsan TV",
+                "url": "https://flv.intechmedia.net/live/ch4.m3u8",
+                "group": "Religious",
+                "logo": "https://i.imgur.com/dZdUbYd.png"
+            },
+            {
+                "name": "Al Iman TV",
+                "url": "https://flv.intechmedia.net/live/ch9.m3u8",
+                "group": "Religious",
+                "logo": "https://i.imgur.com/Qj1EFf1.png"
+            },
+            {
+                "name": "Al Wafa Tarim TV",
+                "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+                "group": "Religious",
+                "logo": "https://i.ibb.co/3yfMjmf/logo-3.png"
+            },
+            {
+                "name": "MQTV",
+                "url": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w107392989.m3u8",
+                "group": "Religious",
+                "logo": "https://i.imgur.com/d8dQo6E.png"
+            },
+            {
+                "name": "Quran TV",
+                "url": "https://flv.intechmedia.net/live/ch14.m3u8",
+                "group": "Religious",
+                "logo": "https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg"
+            },
+            {
+                "name": "Sunnah TV",
+                "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+                "group": "Religious",
+                "logo": "https://i.imgur.com/K2Snk2T.png"
+            },
+            {
+                "name": "ABC Australia",
+                "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/qQ33TVM.png"
+            },
+            {
+                "name": "Astro Awani",
+                "url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-awani-my.png"
+            },
+            {
+                "name": "Atambua TV",
+                "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png"
+            },
+            {
+                "name": "Aura",
+                "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/yYpOSvD.jpeg"
+            },
+            {
+                "name": "Big 12 Studios",
+                "url": "https://d18pj8s9gbivdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zekbh1r7qavoe/The_Big_12.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/OA9hm6e.png"
+            },
+            {
+                "name": "Canal 6",
+                "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-6-mx.png"
+            },
+            {
+                "name": "Canal 22",
+                "url": "https://5fc584f3f19c9.streamlock.net:443/canal22/videocanal22/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-22-mx.png"
+            },
+            {
+                "name": "Capital 21",
+                "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/8ign49i.png"
+            },
+            {
+                "name": "Caruban TV",
+                "url": "https://stream.carubantv.id/hls/0/stream.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png"
+            },
+            {
+                "name": "CBS Golazo Network",
+                "url": "https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-golazo-network-us.png"
+            },
+            {
+                "name": "CCTV 2",
+                "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/ILamhwU.png"
+            },
+            {
+                "name": "CCTV 3",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/iFlkIuw.png"
+            },
+            {
+                "name": "CCTV 5",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/nbmnGwE.png"
+            },
+            {
+                "name": "CCTV 7",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/CKcPMQC.png"
+            },
+            {
+                "name": "CCTV 9",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/3tivvMm.png"
+            },
+            {
+                "name": "CCTV 10",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/sSSO7UD.png"
+            },
+            {
+                "name": "CCTV 11",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/CjOWx7L.png"
+            },
+            {
+                "name": "CCTV 12",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/3yTuiOM.png"
+            },
+            {
+                "name": "CCTV 16",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/ZzV6JQp.png"
+            },
+            {
+                "name": "CCTV 17",
+                "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub",
+                "group": "Others",
+                "logo": "https://i.imgur.com/jSQURxS.png"
+            },
+            {
+                "name": "CCTV6",
+                "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009",
+                "group": "Others",
+                "logo": "https://i.imgur.com/rFiaef7.png"
+            },
+            {
+                "name": "Channel 8",
+                "url": "http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/channel-8-sg.png"
+            },
+            {
+                "name": "CJ E&M Korea",
+                "url": "https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/Mg6HCLI.png"
+            },
+            {
+                "name": "CW Forever",
+                "url": "https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cw-ca.png"
+            },
+            {
+                "name": "CW Gold",
+                "url": "https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cw-ca.png"
+            },
+            {
+                "name": "Dhamma TV",
+                "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+                "group": "Others",
+                "logo": "https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png"
+            },
+            {
+                "name": "Dhoho TV",
+                "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/4Khyyfh.png"
+            },
+            {
+                "name": "Discovering China",
+                "url": "http://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/wr2bLaA.png"
+            },
+            {
+                "name": "DLTV 1",
+                "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/BxiPSH4.png"
+            },
+            {
+                "name": "DLTV 2",
+                "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/EGSBHQ3.png"
+            },
+            {
+                "name": "DLTV 3",
+                "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/6c0UOav.png"
+            },
+            {
+                "name": "DLTV 4",
+                "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/b1yG7vr.png"
+            },
+            {
+                "name": "DLTV 5",
+                "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/zFarFTl.png"
+            },
+            {
+                "name": "DLTV 6",
+                "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/ZtKgYDd.png"
+            },
+            {
+                "name": "DLTV 7",
+                "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/UCkTquf.png"
+            },
+            {
+                "name": "DLTV 8",
+                "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/xIwn5Ha.png"
+            },
+            {
+                "name": "DLTV 9",
+                "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/yPeSAry.png"
+            },
+            {
+                "name": "DLTV 10",
+                "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/TgN81Zr.png"
+            },
+            {
+                "name": "DLTV 11",
+                "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/hFk2b5s.png"
+            },
+            {
+                "name": "DLTV 12",
+                "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/ITt6lY7.png"
+            },
+            {
+                "name": "DLTV 13",
+                "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/asB5w3v.png"
+            },
+            {
+                "name": "DLTV 14",
+                "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/HOjZRNS.png"
+            },
+            {
+                "name": "DLTV 15",
+                "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/onJi2b6.png"
+            },
+            {
+                "name": "Dopa Channel",
+                "url": "http://dopachannel.truegse.com/live/dopatv03.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/Z9vxti4.png"
+            },
+            {
+                "name": "DraftKings",
+                "url": "https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/SFYhgrt.png"
+            },
+            {
+                "name": "Duta TV",
+                "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/B4JW54M.png"
+            },
+            {
+                "name": "DW En Espa\u00f1ol",
+                "url": "https://dwamdstream104.akamaized.net/hls/live/2015530-b/dwstream104/stream04/streamPlaylist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png"
+            },
+            {
+                "name": "EarthDay 365",
+                "url": "https://jmp2.uk/rok-0a4f2ecbb9d3f127aa5fc5f31be22842.m3u8",
+                "group": "Others",
+                "logo": "https://epg.sam.stingray.com/IMAGE/EARTH-001/lg-direct/Channel_Logo_522x200.png"
+            },
+            {
+                "name": "Hijrah TV",
+                "url": "https://flv.intechmedia.net/live/ch8.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/bVN4zj2.png"
+            },
+            {
+                "name": "Imtv",
+                "url": "https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/B19cWx1.jpg"
+            },
+            {
+                "name": "Indonesiana TV",
+                "url": "https://tvstreamcast.com/indonesiana.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/192wiS1.png"
+            },
+            {
+                "name": "Insan TV",
+                "url": "https://flv.intechmedia.net/live/ch1.m3u8",
+                "group": "Others",
+                "logo": "https://i.postimg.cc/ZqfVGm87/logo.png"
+            },
+            {
+                "name": "ION Mystery",
+                "url": "https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-mystery-us.png"
+            },
+            {
+                "name": "ION Plus",
+                "url": "https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ion-plus-us.png"
+            },
+            {
+                "name": "Izzah TV",
+                "url": "https://flv.intechmedia.net/live/ch28.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/my7aqLc.png"
+            },
+            {
+                "name": "Jawa Pos TV Jakarta",
+                "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png"
+            },
+            {
+                "name": "Jowo Channel",
+                "url": "http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/fksxiaS.png"
+            },
+            {
+                "name": "JTV Kediri",
+                "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/jtv-id.png"
+            },
+            {
+                "name": "Kansai TV",
+                "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0",
+                "group": "Others",
+                "logo": "https://i.imgur.com/WMNg5De.png"
+            },
+            {
+                "name": "Kilisuci TV",
+                "url": "https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png"
+            },
+            {
+                "name": "Lao-Thai TV",
+                "url": "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/q6cQzbv.png"
+            },
+            {
+                "name": "Las Estrellas",
+                "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/las-estrellas-mx.png"
+            },
+            {
+                "name": "LG 1",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-1-sg.png"
+            },
+            {
+                "name": "LG 1 Spotlight",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-1-sg.png"
+            },
+            {
+                "name": "Lingkar TV",
+                "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+                "group": "Others",
+                "logo": "https://lingkartv.com/assets/img/logo-square.png"
+            },
+            {
+                "name": "Madu TV",
+                "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/cKpgbgW.png"
+            },
+            {
+                "name": "MBC M",
+                "url": "https://newidco-newkid-1-eu.plex.wurl.tv/3000.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/pZ8acgI.png"
+            },
+            {
+                "name": "Mexiquense TV 34.1",
+                "url": "https://5e50264bd6766.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png"
+            },
+            {
+                "name": "Mexiquense TV 34.2",
+                "url": "https://5e50264bd6766.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
+            },
+            {
+                "name": "Milenio TV",
+                "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/TG1T5Oh.png"
+            },
+            {
+                "name": "Monster Jam",
+                "url": "https://jmp2.uk/rok-a361d429db9e46665be277da42af89a4.m3u8",
+                "group": "Others",
+                "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg"
+            },
+            {
+                "name": "Moonbug",
+                "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/moonbug-ae.png"
+            },
+            {
+                "name": "Motorvision",
+                "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-tv-fr.png"
+            },
+            {
+                "name": "Muadz TV",
+                "url": "https://flv.intechmedia.net/live/ch5.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/wT7sNUW.png"
+            },
+            {
+                "name": "NHK G Osaka",
+                "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0",
+                "group": "Others",
+                "logo": "https://i.imgur.com/fAZ2BEZ.png"
+            },
+            {
+                "name": "Nhra TV",
+                "url": "https://jmp2.uk/rok-82bd10ceb52152a7adb6bdc5d776e794.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/jZgcm4k.png"
+            },
+            {
+                "name": "Now 70's",
+                "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/qiCCX5X.png"
+            },
+            {
+                "name": "Now 80's",
+                "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/YyPnMeB.png"
+            },
+            {
+                "name": "NTD ??????",
+                "url": "http://cnhls.ntdtv.com/cn/live800/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png"
+            },
+            {
+                "name": "Persiana Iranian",
+                "url": "https://irhls.persiana.live/hls/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/vqrrpBi.png"
+            },
+            {
+                "name": "Persiana Korea",
+                "url": "https://korhls.persiana.live/hls/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/si2ZnIA.png"
+            },
+            {
+                "name": "Persiana Nostalgia",
+                "url": "https://noshls.persiana.live/hls/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/SWO9CKA.png"
+            },
+            {
+                "name": "Persiana Plus",
+                "url": "https://euhls.persiana.live/hls/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/0xttibX.png"
+            },
+            {
+                "name": "Persiana Turkiye",
+                "url": "https://turkhls.persiana.live/hls/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/zeKHZYG.png"
+            },
+            {
+                "name": "PFL Mma",
+                "url": "https://jmp2.uk/rok-e46ac8cd0299b4c5f1403d999a432561.m3u8",
+                "group": "Others",
+                "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg"
+            },
+            {
+                "name": "Pingfong TV",
+                "url": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/rX9SQKC.png"
+            },
+            {
+                "name": "Pitufo TV",
+                "url": "https://jmp2.uk/rok-2bc36154da3310eaa692d0ea141ef8e0.m3u8",
+                "group": "Others",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeucF4VQdRzPCQiCdYxgl-MPM8yLTG26mh_A&s"
+            },
+            {
+                "name": "Police TV",
+                "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/GhboFGt.png"
+            },
+            {
+                "name": "Powernation",
+                "url": "https://jmp2.uk/rok-ca25dfba8ba45a1bb277c8b0ca8f56c4.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/jguTO8E.png"
+            },
+            {
+                "name": "Quiero TV",
+                "url": "https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png"
+            },
+            {
+                "name": "Rama Channel",
+                "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/pnbzE2V.png"
+            },
+            {
+                "name": "Roll",
+                "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/hJH22Yy.png"
+            },
+            {
+                "name": "RT En Espa\u00f1ol",
+                "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png"
+            },
+            {
+                "name": "RTB Sukmaindera",
+                "url": "https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2",
+                "group": "Others",
+                "logo": "https://i.imgur.com/WpMGnTr.png"
+            },
+            {
+                "name": "Salira TV",
+                "url": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/XZzINfq.png"
+            },
+            {
+                "name": "SBB TV",
+                "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/B1tyK1Z.png"
+            },
+            {
+                "name": "SBT TV",
+                "url": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png"
+            },
+            {
+                "name": "Shop Channel",
+                "url": "https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/zl7QkPF.png"
+            },
+            {
+                "name": "STARA TV Bandung",
+                "url": "https://bandung.staratv.id/hls/0/stream.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
+            },
+            {
+                "name": "STARA TV Cianjur",
+                "url": "https://cianjur.staratv.id/hls/0/stream.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
+            },
+            {
+                "name": "STARA TV Jakarta",
+                "url": "https://jakarta.staratv.id/hls/0/stream.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
+            },
+            {
+                "name": "STARA TV Majalengka",
+                "url": "https://stream.staratv.id/hls/0/stream.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
+            },
+            {
+                "name": "STARA TV Malang",
+                "url": "https://malang.staratv.id/hls/0/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/3iC41QX.png"
+            },
+            {
+                "name": "STOU Channel",
+                "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/L3T2QZz.png"
+            },
+            {
+                "name": "Sunna TV",
+                "url": "https://flv.intechmedia.net/live/ch13.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/K2Snk2T.png"
+            },
+            {
+                "name": "Suwannabhumi Channel",
+                "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/6AGKP0A.png"
+            },
+            {
+                "name": "Swerve Combat",
+                "url": "https://jmp2.uk/rok-8c48bcf59acd57779977b83a41fac919.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/eFZh7aG.png"
+            },
+            {
+                "name": "Tatv",
+                "url": "https://tatv.siar.us/tatv/live.sdp/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/1f0EC7t.png"
+            },
+            {
+                "name": "TBN Armenia",
+                "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/U5XsT3j.png"
+            },
+            {
+                "name": "TBN Baltia",
+                "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/rKBaK56.png"
+            },
+            {
+                "name": "TBN Nejat Iran",
+                "url": "https://hls.nejat.live/hls/stream.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/e4WffQA.png"
+            },
+            {
+                "name": "TBN Pacific",
+                "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/yWJTxKk.png"
+            },
+            {
+                "name": "TBN UK",
+                "url": "https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tbn-uk.png"
+            },
+            {
+                "name": "Team USA TV",
+                "url": "https://jmp2.uk/rok-257afd66cee15a1ca2125fc377e87cc2.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/usa-br.png"
+            },
+            {
+                "name": "Teleritmo",
+                "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?",
+                "group": "Others",
+                "logo": "https://i.imgur.com/9s380Bz.png"
+            },
+            {
+                "name": "Top Rank Classics",
+                "url": "https://jmp2.uk/rok-c0b79a332cfd90b8eeb6d4a0dcb63674.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/pink-classic-rs.png"
+            },
+            {
+                "name": "TV Mas",
+                "url": "https://5f1af61612fb5.streamlock.net/rtv/videortv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/N0leaVD.jpeg"
+            },
+            {
+                "name": "TV Migrante",
+                "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/tVgkiJF.png"
+            },
+            {
+                "name": "TV Muslim Thailand",
+                "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/aCFpuzW.png"
+            },
+            {
+                "name": "TV Osaka",
+                "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0",
+                "group": "Others",
+                "logo": "https://i.imgur.com/rUmrruq.png"
+            },
+            {
+                "name": "TV Tabalong",
+                "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/2YhDH98.png"
+            },
+            {
+                "name": "TV Terceiro Anjo Brazil",
+                "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/PExKWNv.png"
+            },
+            {
+                "name": "TV Unam",
+                "url": "https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR",
+                "group": "Others",
+                "logo": "https://i.imgur.com/ayg5kRM.png"
+            },
+            {
+                "name": "TV10",
+                "url": "https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/eBZiBia.png"
+            },
+            {
+                "name": "tvN Korea",
+                "url": "https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SBS_M_2022_logo.svg/960px-SBS_M_2022_logo.svg.png"
+            },
+            {
+                "name": "Velayat TV",
+                "url": "https://nl.livekadeh.com/hls2/velayattv.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/bRQSzhs.png"
+            },
+            {
+                "name": "Vibe TV",
+                "url": "https://5ca9af4645e15.streamlock.net:443/vibetv/videovibetv/playlist.m3u8?",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/vibe-nz.png"
+            },
+            {
+                "name": "Voa",
+                "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/rtRnlqN.png"
+            },
+            {
+                "name": "VTN Amerika Serikat",
+                "url": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cgtn-america-int.png"
+            },
+            {
+                "name": "VTV",
+                "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png"
+            },
+            {
+                "name": "WLMB Amerika Serikat",
+                "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/KeELZ1Y.png"
+            },
+            {
+                "name": "Yadah TV Zimbabwe",
+                "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/4BNVhoC.png"
+            },
+            {
+                "name": "Zabb Channel",
+                "url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/4TMtUjW.png"
+            },
+            {
+                "name": "Zainabia Channel India",
+                "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/india-tv-in.png"
+            },
+            {
+                "name": "Zoo Moo",
+                "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/zoomoo-br.png"
+            },
+            {
+                "name": "???? Rusia",
+                "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+                "group": "Others",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png"
+            },
+            {
+                "name": "CNN Internasional",
+                "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+                "group": "Be",
+                "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png"
+            }
+        ],
+        "listScale": 125,
+        "listBgMode": "default",
+        "listBgColor": "#400040",
+        "listBgOpacity": 40,
+        "listBgImage": ""
+    },
+    "wifi": {
+        "ssid": "RND",
+        "password": "12345678",
+        "security": "WPA",
+        "hidden": false
+    },
+    "backgroundMode": "photo",
+    "backgroundSlides": [],
+    "backgroundInterval": 8,
+    "homeBackgroundMode": "video",
+    "homeBackgroundSlides": [],
+    "homeBackgroundInterval": 6,
+    "videoAudio": "mute",
+    "music": {
+        "file": "assets/media/music.mp3",
+        "volume": 100,
+        "scope": "all"
+    },
+    "liveTv": {
+        "enabled": false,
+        "package": ""
+    },
+    "update": {
+        "base": "https://raw.githubusercontent.com/gedegempar/good-launcher-content/main/50c8db3f6bba56bb09faa2aa",
+        "interval": 120
+    }
+}
