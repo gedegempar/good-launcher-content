@@ -1,0 +1,823 @@
+{
+    "propertyName": "Purana Villa",
+    "welcomeText": "Dear Valued Guest",
+    "welcomeMessage": "Welcome to Purana Villa!\r\n\r\nIt is our pleasure to welcome you to our little sanctuary in Bali. We hope your stay will be filled with comfort, tranquility, and beautiful moments.\r\n\r\nInspired by the warmth of Balinese hospitality, Purana Villa is dedicated to making your experience special and memorable. Whether you wish to relax, explore the beauty of Bali, or simply enjoy a peaceful escape, we hope you will feel right at home.\r\n\r\nPlease do not hesitate to contact our team should you need any assistance during your stay.\r\n\r\nThank you for choosing Purana Villa. We wish you a wonderful stay and unforgettable memories in Bali.",
+    "welcomeSignature": "Purana Villa Management & Team",
+    "logo": "assets/logo.png",
+    "background": "assets/background.png",
+    "homeBackground": "assets/home-background.mp4",
+    "greetingEnabled": true,
+    "greetingLanguage": "auto",
+    "timeFormat": "24",
+    "dateLanguage": "auto",
+    "adminPin": "1111",
+    "launcherVersion": "1.0.17",
+    "accentColor": "#f2d9a4",
+    "fontFamily": "default",
+    "welcomeTextAlign": "center",
+    "menuLayout": "folder",
+    "tileSize": "medium",
+    "logoPosition": "top-center",
+    "homeTitleSource": "property",
+    "homeTitleText": "",
+    "uiLanguage": "en",
+    "adminLanguage": "en",
+    "textStyles": {
+        "propertyName": {
+            "size": 40,
+            "bold": true,
+            "italic": false,
+            "color": "#ffffff"
+        },
+        "welcomeText": {
+            "size": 34,
+            "bold": true,
+            "italic": false,
+            "color": "#ffffff"
+        },
+        "welcomeMessage": {
+            "size": 26,
+            "bold": false,
+            "italic": true,
+            "color": "#ffffff"
+        },
+        "welcomeSignature": {
+            "size": 22,
+            "bold": true,
+            "italic": true,
+            "color": "#ffffff"
+        }
+    },
+    "textStyleUnit": "px",
+    "logoSize": 150,
+    "clockSize": 40,
+    "weatherSize": 40,
+    "welcomeGreetingSize": 49,
+    "homeGreetingSize": 25,
+    "homeTitleSize": 40,
+    "safeMargin": 6,
+    "wifiQrSize": 200,
+    "textPanel": "light",
+    "autoFit": true,
+    "weather": {
+        "lat": -8.5098000000000002529532139305956661701202392578125,
+        "lon": 115.265399999999999636202119290828704833984375,
+        "label": "Ubud"
+    },
+    "info": {
+        "enabled": true,
+        "title": "Info Villa",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "slides": [
+            {
+                "image": "assets/info/saefd56b3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/se916f1f6.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s4fa32cac.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sb471beb1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/sf8aaf3f1.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/info/s970e14a4.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "promo": {
+        "enabled": true,
+        "title": "Promo",
+        "template": "slideshow",
+        "interval": 10,
+        "text": {
+            "size": 30,
+            "align": "center",
+            "bold": true,
+            "italic": true
+        },
+        "slides": [
+            {
+                "image": "assets/promo/s65fd3c7c.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s78d232d3.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s935c8f45.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s068282bc.jpg",
+                "description": ""
+            },
+            {
+                "image": "assets/promo/s7633696d.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "dining": {
+        "enabled": true,
+        "title": "In-Room Dining",
+        "template": "imageqr",
+        "interval": 6,
+        "text": {
+            "size": 26,
+            "align": "left",
+            "bold": false,
+            "italic": false
+        },
+        "qr": {
+            "url": "https://wa.me/081779580810",
+            "label": ""
+        },
+        "slides": [
+            {
+                "image": "assets/dining/sdb5e0fee.jpg",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "assets/dining/sc9518aca.jpg",
+                "description": "",
+                "url": ""
+            },
+            {
+                "image": "assets/dining/s4da087ec.jpg",
+                "description": "",
+                "url": ""
+            }
+        ]
+    },
+    "iptv": {
+        "enabled": true,
+        "title": "Live TV",
+        "channels": [
+            {
+                "name": "Bali TV",
+                "url": "http://103.100.172.46/media/m3u8/Y3RNNUBM/50/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/bali-tv-id.png"
+            },
+            {
+                "name": "Indosiar",
+                "url": "http://103.100.172.46/media/m3u8/KDEO7GNZ/53/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png"
+            },
+            {
+                "name": "MNCTV",
+                "url": "http://103.100.172.46/media/m3u8/EWTK4PGI/54/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://i.imgur.com/SK8pjQy.png"
+            },
+            {
+                "name": "RCTI",
+                "url": "http://103.100.172.46/media/m3u8/PMYESEKB/51/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png"
+            },
+            {
+                "name": "SCTV",
+                "url": "http://103.100.172.46/media/m3u8/GU2USXSG/52/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png"
+            },
+            {
+                "name": "Trans TV",
+                "url": "http://103.100.172.46/media/m3u8/ZSLT9W2J/48/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png"
+            },
+            {
+                "name": "Trans7",
+                "url": "http://103.100.172.46/media/m3u8/UPAJYSRK/49/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png"
+            },
+            {
+                "name": "TVRI Nasional",
+                "url": "http://103.100.172.46/media/m3u8/TXZO6QT1/57/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+            },
+            {
+                "name": "TVRI Sport",
+                "url": "http://103.100.172.46/media/m3u8/UKBCENNO/37/ts.m3u8",
+                "group": "Indonesian TV",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport-id.png"
+            },
+            {
+                "name": "Al Jazeera",
+                "url": "http://103.100.172.46/media/m3u8/HKX8IKYK/3/ts.m3u8",
+                "group": "News",
+                "logo": "https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"
+            },
+            {
+                "name": "Arirang",
+                "url": "http://103.100.172.46/media/m3u8/EYKZK9RS/13/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/arirang-int.png"
+            },
+            {
+                "name": "BeritaSatu",
+                "url": "http://103.100.172.46/media/m3u8/JC7HZE6U/47/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/berita-satu-id.png"
+            },
+            {
+                "name": "CGTN",
+                "url": "http://103.100.172.46/media/m3u8/ZZW84HIG/19/ts.m3u8",
+                "group": "News",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png"
+            },
+            {
+                "name": "CGTN Documentary",
+                "url": "http://103.100.172.46/media/m3u8/TTIH9K6S/43/ts.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/JHv0WxM.png"
+            },
+            {
+                "name": "CGTN Russian",
+                "url": "http://103.100.172.46/media/m3u8/CFK15UTG/55/ts.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/nDWkCmL.png"
+            },
+            {
+                "name": "CNA",
+                "url": "http://103.100.172.46/media/m3u8/R73C8XIJ/20/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/cna-sg.png"
+            },
+            {
+                "name": "CNBC Indonesia",
+                "url": "http://103.100.172.46/media/m3u8/L9LTZSGJ/58/ts.m3u8",
+                "group": "News",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png"
+            },
+            {
+                "name": "CNN Indonesia",
+                "url": "http://103.100.172.46/media/m3u8/FLL1OI4W/1/ts.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/l0JyOrm.png"
+            },
+            {
+                "name": "CNN International",
+                "url": "http://103.100.172.46/media/m3u8/EJ6RQRXS/2/ts.m3u8",
+                "group": "News",
+                "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png"
+            },
+            {
+                "name": "DW",
+                "url": "http://103.100.172.46/media/m3u8/IHDCYFZK/7/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png"
+            },
+            {
+                "name": "Euronews",
+                "url": "http://103.100.172.46/media/m3u8/BSURAW7X/4/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/euro-news-ca.png"
+            },
+            {
+                "name": "France 24",
+                "url": "http://103.100.172.46/media/m3u8/QY885NKO/5/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png"
+            },
+            {
+                "name": "KBS World",
+                "url": "http://103.100.172.46/media/m3u8/Y09GSYAH/14/ts.m3u8",
+                "group": "News",
+                "logo": "https://i.imgur.com/7DqgELX.png"
+            },
+            {
+                "name": "Kompas TV",
+                "url": "http://103.100.172.46/media/m3u8/JNW1VNWZ/60/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png"
+            },
+            {
+                "name": "Metro TV",
+                "url": "http://103.100.172.46/media/m3u8/YVUNQMVZ/59/ts.m3u8",
+                "group": "News",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png"
+            },
+            {
+                "name": "Fight TV",
+                "url": "http://103.100.172.46/media/m3u8/PEXH1JE1/30/ts.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/fight-network-ca.png"
+            },
+            {
+                "name": "Gaming TV",
+                "url": "http://103.100.172.46/media/m3u8/ICD79VSV/32/ts.m3u8",
+                "group": "Sports",
+                "logo": "https://i.imgur.com/Og6LBFc.png"
+            },
+            {
+                "name": "Golf",
+                "url": "http://103.100.172.46/media/m3u8/HDPGVRYO/29/ts.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/golf-channel-ar.png"
+            },
+            {
+                "name": "Premier Sport",
+                "url": "http://103.100.172.46/media/m3u8/BE6ZK9WD/31/ts.m3u8",
+                "group": "Sports",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/premier-sports-ph.png"
+            },
+            {
+                "name": "Sport TV",
+                "url": "http://103.100.172.46/media/m3u8/RZV3AWIB/38/ts.m3u8",
+                "group": "Sports",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png"
+            },
+            {
+                "name": "Cartoon Network",
+                "url": "http://103.100.172.46/media/m3u8/D6YU1F37/34/ts.m3u8",
+                "group": "Kids",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png"
+            },
+            {
+                "name": "Cartoon TV",
+                "url": "http://103.100.172.46/media/m3u8/6FWD3QK4/28/ts.m3u8",
+                "group": "Kids",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png"
+            },
+            {
+                "name": "Cartoon TV Premium",
+                "url": "http://103.100.172.46/media/m3u8/SZ9EJBRU/16/ts.m3u8",
+                "group": "Kids",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cartoon-network-ar.png"
+            },
+            {
+                "name": "Cartoonito",
+                "url": "http://103.100.172.46/media/m3u8/L9ILT5PK/33/ts.m3u8",
+                "group": "Kids",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png"
+            },
+            {
+                "name": "AXN",
+                "url": "http://103.100.172.46/media/m3u8/IIAO1N1O/39/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png"
+            },
+            {
+                "name": "Celestial Movies",
+                "url": "http://103.100.172.46/media/m3u8/IT9GOSO7/25/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/celestial-movies-hk.png"
+            },
+            {
+                "name": "Cinema World",
+                "url": "http://103.100.172.46/media/m3u8/BJLHODLH/36/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://i.imgur.com/D2qNVZ7.png"
+            },
+            {
+                "name": "Cinemax",
+                "url": "http://103.100.172.46/media/m3u8/F0XWLFX6/26/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png"
+            },
+            {
+                "name": "HBO",
+                "url": "http://103.100.172.46/media/m3u8/KEJCP1ZE/24/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png"
+            },
+            {
+                "name": "HBO Family",
+                "url": "http://103.100.172.46/media/m3u8/QYV3XO7D/23/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-family-ar.png"
+            },
+            {
+                "name": "HBO Hits",
+                "url": "http://103.100.172.46/media/m3u8/ELZ0XN8P/22/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/hbo-hits-hk.png"
+            },
+            {
+                "name": "HBO Signature",
+                "url": "http://103.100.172.46/media/m3u8/V5PSYIQB/21/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-signature-ar.png"
+            },
+            {
+                "name": "tvN Movies",
+                "url": "http://103.100.172.46/media/m3u8/CQQZ1SOK/41/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/tvn-movies-pinoy-ph.png"
+            },
+            {
+                "name": "Warner TV",
+                "url": "http://103.100.172.46/media/m3u8/Y7HFJL9V/44/ts.m3u8",
+                "group": "Movies & Series",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/warner-tv-ch.png"
+            },
+            {
+                "name": "Musik Indonesia",
+                "url": "http://103.100.172.46/media/m3u8/PDXJRJHA/46/ts.m3u8",
+                "group": "Music",
+                "logo": "https://i.postimg.cc/xdtkx9P0/musik-indo.png"
+            },
+            {
+                "name": "Knowledge",
+                "url": "http://103.100.172.46/media/m3u8/9LEC63GT/35/ts.m3u8",
+                "group": "Documentary & Education",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/knowledge-network-ca.png"
+            },
+            {
+                "name": "Fashion TV",
+                "url": "http://103.100.172.46/media/m3u8/JPIR1ZHB/45/ts.m3u8",
+                "group": "Entertainment",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/fashion-tv-nl.png"
+            },
+            {
+                "name": "CCTV 4",
+                "url": "http://103.100.172.46/media/m3u8/IBXZ6JMW/12/ts.m3u8",
+                "group": "Radio",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/cctv4-sg.png"
+            },
+            {
+                "name": "PTP Russia",
+                "url": "http://103.100.172.46/media/m3u8/XGV0HV1H/10/ts.m3u8",
+                "group": "Radio",
+                "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/960px-RTR-Planeta_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+            },
+            {
+                "name": "ABC Australia",
+                "url": "http://103.100.172.46/media/m3u8/JP16IQLA/8/ts.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/qQ33TVM.png"
+            },
+            {
+                "name": "BVN",
+                "url": "http://103.100.172.46/media/m3u8/WHYR9UVN/9/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/bvn-nl.png"
+            },
+            {
+                "name": "Eat & Go",
+                "url": "http://103.100.172.46/media/m3u8/EXKEX2HO/17/ts.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/Xk2s1q3.png"
+            },
+            {
+                "name": "Global TV",
+                "url": "http://103.100.172.46/media/m3u8/KUYXCZFZ/56/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png"
+            },
+            {
+                "name": "NHK",
+                "url": "http://103.100.172.46/media/m3u8/5FUHLZ7S/15/ts.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/WxtftlO.png"
+            },
+            {
+                "name": "Russia Today",
+                "url": "http://103.100.172.46/media/m3u8/A1FPM4OE/18/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/russia-today-int.png"
+            },
+            {
+                "name": "Thrill",
+                "url": "http://103.100.172.46/media/m3u8/RA3TCFB1/27/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/thrill-hk.png"
+            },
+            {
+                "name": "TV5Monde",
+                "url": "http://103.100.172.46/media/m3u8/MZDOSATA/56/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tv5-monde-fr.png"
+            },
+            {
+                "name": "TVE",
+                "url": "http://103.100.172.46/media/m3u8/03N3IHQK/11/ts.m3u8",
+                "group": "Others",
+                "logo": "https://i.imgur.com/FpqoWcB.png"
+            },
+            {
+                "name": "tvN",
+                "url": "http://103.100.172.46/media/m3u8/YWPL6TJA/40/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/tvn-hk.png"
+            },
+            {
+                "name": "Zee Bioskop",
+                "url": "http://103.100.172.46/media/m3u8/OBT73S8H/41/ts.m3u8",
+                "group": "Others",
+                "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-biskope-in.png"
+            }
+        ],
+        "listScale": 125,
+        "listBgMode": "default",
+        "listBgColor": "#400040",
+        "listBgOpacity": 40,
+        "listBgImage": ""
+    },
+    "wifi": {
+        "ssid": "RND",
+        "password": "12345678",
+        "security": "WPA",
+        "hidden": false
+    },
+    "backgroundMode": "photo",
+    "backgroundSlides": [],
+    "backgroundInterval": 8,
+    "homeBackgroundMode": "video",
+    "homeBackgroundSlides": [],
+    "homeBackgroundInterval": 6,
+    "videoAudio": "mute",
+    "music": {
+        "file": "assets/media/music.mp3",
+        "volume": 100,
+        "scope": "all"
+    },
+    "liveTv": {
+        "enabled": false,
+        "package": ""
+    },
+    "themes": {
+        "schedule": [
+            {
+                "id": "halloween",
+                "start": "2026-10-13",
+                "end": "2026-10-19",
+                "yearly": false,
+                "intensity": "medium",
+                "accent": "villa",
+                "screens": [
+                    "welcome",
+                    "home"
+                ]
+            }
+        ],
+        "packs": {
+            "halloween": {
+                "dir": "assets/themes/halloween/",
+                "accent": "#ff9a3d",
+                "welcome": [
+                    {
+                        "img": "glowb",
+                        "a": "bl",
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "level": 2
+                    },
+                    {
+                        "img": "glowt",
+                        "a": "tl",
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "level": 3
+                    },
+                    {
+                        "img": "web",
+                        "a": "tl",
+                        "x": 0,
+                        "y": 0,
+                        "w": 340,
+                        "level": 1
+                    },
+                    {
+                        "img": "web",
+                        "a": "tr",
+                        "x": 0,
+                        "y": 0,
+                        "w": 165,
+                        "flip": true,
+                        "level": 1
+                    },
+                    {
+                        "img": "spider",
+                        "a": "tl",
+                        "x": 250,
+                        "y": 0,
+                        "w": 96,
+                        "level": 2
+                    },
+                    {
+                        "img": "bat",
+                        "a": "tl",
+                        "x": 560,
+                        "y": 34,
+                        "w": 120,
+                        "rot": -10,
+                        "level": 2
+                    },
+                    {
+                        "img": "bat",
+                        "a": "tl",
+                        "x": 1290,
+                        "y": 86,
+                        "w": 86,
+                        "rot": 12,
+                        "level": 2
+                    },
+                    {
+                        "img": "bat",
+                        "a": "tl",
+                        "x": 1450,
+                        "y": 28,
+                        "w": 62,
+                        "rot": -6,
+                        "level": 3
+                    },
+                    {
+                        "img": "moon",
+                        "a": "tl",
+                        "x": 520,
+                        "y": 120,
+                        "w": 150,
+                        "level": 3
+                    },
+                    {
+                        "img": "ghost",
+                        "a": "tl",
+                        "x": 1405,
+                        "y": 188,
+                        "w": 118,
+                        "rot": 10,
+                        "level": 2
+                    },
+                    {
+                        "img": "pumpkin",
+                        "a": "br",
+                        "x": 40,
+                        "y": 18,
+                        "w": 210,
+                        "level": 1
+                    },
+                    {
+                        "img": "pumpkin",
+                        "a": "br",
+                        "x": 250,
+                        "y": 12,
+                        "w": 134,
+                        "flip": true,
+                        "level": 2
+                    },
+                    {
+                        "img": "pumpkin",
+                        "a": "br",
+                        "x": 360,
+                        "y": 8,
+                        "w": 84,
+                        "level": 3
+                    },
+                    {
+                        "img": "ghost",
+                        "a": "br",
+                        "x": 120,
+                        "y": 190,
+                        "w": 96,
+                        "rot": -8,
+                        "level": 2
+                    }
+                ],
+                "home": [
+                    {
+                        "img": "glowb",
+                        "a": "bl",
+                        "x": 0,
+                        "y": 0,
+                        "w": 1920,
+                        "level": 2
+                    },
+                    {
+                        "img": "web",
+                        "a": "tl",
+                        "x": 0,
+                        "y": 0,
+                        "w": 108,
+                        "level": 1
+                    },
+                    {
+                        "img": "web",
+                        "a": "tr",
+                        "x": 0,
+                        "y": 0,
+                        "w": 170,
+                        "flip": true,
+                        "level": 1
+                    },
+                    {
+                        "img": "spider",
+                        "a": "tl",
+                        "x": 1500,
+                        "y": 0,
+                        "w": 90,
+                        "level": 2
+                    },
+                    {
+                        "img": "bat",
+                        "a": "tl",
+                        "x": 430,
+                        "y": 40,
+                        "w": 100,
+                        "rot": -8,
+                        "level": 2
+                    },
+                    {
+                        "img": "bat",
+                        "a": "tl",
+                        "x": 1180,
+                        "y": 70,
+                        "w": 70,
+                        "rot": 10,
+                        "level": 3
+                    },
+                    {
+                        "img": "pumpkin",
+                        "a": "tl",
+                        "x": 118,
+                        "y": 664,
+                        "w": 120,
+                        "level": 3
+                    }
+                ],
+                "tiles": [
+                    {
+                        "slot": "info",
+                        "img": "ghost",
+                        "a": "tr",
+                        "x": 10,
+                        "y": -76,
+                        "w": 84,
+                        "rot": 8,
+                        "level": 1
+                    },
+                    {
+                        "slot": "promo",
+                        "img": "pumpkin",
+                        "a": "tr",
+                        "x": 16,
+                        "y": -58,
+                        "w": 76,
+                        "level": 1
+                    },
+                    {
+                        "slot": "app:0",
+                        "img": "bat",
+                        "a": "tc",
+                        "x": 0,
+                        "y": -44,
+                        "w": 84,
+                        "level": 2
+                    },
+                    {
+                        "slot": "app:1",
+                        "img": "web",
+                        "a": "tr",
+                        "x": 0,
+                        "y": -1,
+                        "w": 78,
+                        "flip": true,
+                        "level": 2
+                    },
+                    {
+                        "slot": "app:2",
+                        "img": "ghost",
+                        "a": "tr",
+                        "x": 10,
+                        "y": -64,
+                        "w": 70,
+                        "rot": 10,
+                        "level": 3
+                    }
+                ]
+            }
+        }
+    },
+    "update": {
+        "base": "https://raw.githubusercontent.com/gedegempar/good-launcher-content/main/50c8db3f6bba56bb09faa2aa",
+        "interval": 120
+    }
+}
